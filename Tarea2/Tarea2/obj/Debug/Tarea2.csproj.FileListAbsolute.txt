@@ -1,0 +1,10 @@
+C:\Users\MI-PC\Documents\Documentos Lisbeth\BBDD\Lenguaje de Programación 3\RepositorioGitHub\Ejercicios_de_Tarea\Tarea2\Tarea2\bin\Debug\Tarea2.exe.config
+C:\Users\MI-PC\Documents\Documentos Lisbeth\BBDD\Lenguaje de Programación 3\RepositorioGitHub\Ejercicios_de_Tarea\Tarea2\Tarea2\bin\Debug\Tarea2.exe
+C:\Users\MI-PC\Documents\Documentos Lisbeth\BBDD\Lenguaje de Programación 3\RepositorioGitHub\Ejercicios_de_Tarea\Tarea2\Tarea2\bin\Debug\Tarea2.pdb
+C:\Users\MI-PC\Documents\Documentos Lisbeth\BBDD\Lenguaje de Programación 3\RepositorioGitHub\Ejercicios_de_Tarea\Tarea2\Tarea2\obj\Debug\Tarea2.csproj.AssemblyReference.cache
+C:\Users\MI-PC\Documents\Documentos Lisbeth\BBDD\Lenguaje de Programación 3\RepositorioGitHub\Ejercicios_de_Tarea\Tarea2\Tarea2\obj\Debug\Tarea2.CalculoPromedio.resources
+C:\Users\MI-PC\Documents\Documentos Lisbeth\BBDD\Lenguaje de Programación 3\RepositorioGitHub\Ejercicios_de_Tarea\Tarea2\Tarea2\obj\Debug\Tarea2.Properties.Resources.resources
+C:\Users\MI-PC\Documents\Documentos Lisbeth\BBDD\Lenguaje de Programación 3\RepositorioGitHub\Ejercicios_de_Tarea\Tarea2\Tarea2\obj\Debug\Tarea2.csproj.GenerateResource.cache
+C:\Users\MI-PC\Documents\Documentos Lisbeth\BBDD\Lenguaje de Programación 3\RepositorioGitHub\Ejercicios_de_Tarea\Tarea2\Tarea2\obj\Debug\Tarea2.csproj.CoreCompileInputs.cache
+C:\Users\MI-PC\Documents\Documentos Lisbeth\BBDD\Lenguaje de Programación 3\RepositorioGitHub\Ejercicios_de_Tarea\Tarea2\Tarea2\obj\Debug\Tarea2.exe
+C:\Users\MI-PC\Documents\Documentos Lisbeth\BBDD\Lenguaje de Programación 3\RepositorioGitHub\Ejercicios_de_Tarea\Tarea2\Tarea2\obj\Debug\Tarea2.pdb
